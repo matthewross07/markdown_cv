@@ -54,9 +54,26 @@ S Topp, T Pavelsky, E Stanley, X Yang, C Griffin, **MRV Ross**
 
 M Simonin, JD Rocca, J Gerson, E Moore, **MRV Ross**, A Brooks, J Craine, L Czaplicki N Fierer ES Bernhardt. *Biodiversity loss across multiple kingdoms of life associated with surface coal mining activities in Central Appalachian rivers.*
 
-K Jaeger, **MRV Ross**. *Process domains in synthetic landscapes: 
-uncoupling of geomorphic process and form in
+K Jaeger, **MRV Ross**. *Process domains in synthetic landscapes: uncoupling of geomorphic process and form in
 the mountaintop mining region of West Virginia, USA*
+
+A Eurich, SK Kampf, JC Hammond, **MRV Ross**, K Willi.
+*Predicting mean annual and mean monthly streamflow in Colorado ungauged basins.*
+
+## **Publications in prep** (Draft available upon request)
+
+**MRV Ross** *Cumulative mining impacts in Appalachia from 1984-2015 and a generalized method for accumulating disturbance in a river network.*
+
+**MRV Ross**, F Nippgen, BL McGlynn, A Brooks, C Thomas, ES Bernhardt. *Past the point of no return? ecosystem trajectories in mined landscapes*. 
+
+AE Braswell, JM Mallard, **MRV Ross**. *Novel geomorphology: Towards a systematic incorporation of people into geomorphology*
+
+J Diamond, G Pinay, F Moatar, MC Cohen, J Gardner, **MRV Ross** *Cascading downstream transition from pelagic- to benthic- dominated primary production in the Loire River*
+
+NE Bruns, MW Doyle, **MRV Ross.** *Stable phytoplankton accumulation in a Plains river creates biotic standing waves*
+
+C Thomas, M Wasson, J Amos, **MRV Ross**. *Of equal or greater value? long-term vegetation response to mountaintop mining*
+
 
 
 ## **2020**
@@ -116,8 +133,13 @@ MC Arnold, LA Friedrich, TT Lindberg, **MRV Ross**, NM Halden, ES Bernhardt, VP 
 
 ## **Pending**
 
+NASA New Investigator Program, PI. *Towards robust, reproducible, and open global remote sensing of water quality* ($391,000)
 
-NSF Hydological Sciences, PI, Collaborative Research: Clear, Stained, Muddy, and Green: Water clarity patterns and processes across inland water networks. (CSU Portion: $325,000)
+NASA Citizen Science for Earth Systems Program, PI. *Stream Tracker: Extending a citizen science field record with remote sensing* ($159,000)
+
+NASA Carbon Monitoring System Program, CO-PI. *Forecasting and monitoring of woodland carbon dynamics based on remotely-sensed tree demography* (Total: \$750,000 with University of Nevada, Reno, CSU Portion: $325,000)
+
+NSF Hydological Sciences, PI. *Collaborative Research: Clear, Stained, Muddy, and Green: Water clarity patterns and processes across inland water networks.* (Total: \$785,000 with University of Florida, CSU Portion: $345,000)
 
 
 ## **Awarded**
@@ -125,17 +147,17 @@ NSF Hydological Sciences, PI, Collaborative Research: Clear, Stained, Muddy, and
 
 ### **2020**
 
-NSF Hydrological Sciences RAPID Award, CSU PI *Collaborative Research: Increased access to infrastructure for distance education in hydrologic science* $20,552
+NSF Hydrological Sciences RAPID Award, CSU PI. *Collaborative Research: Increased access to infrastructure for distance education in hydrologic science* ($20,552)
 
-Colorado State University Provost Office, PI *University-wide training in foundational data-analysis software* $19,996
+Colorado State University Provost Office, PI. *University-wide training in foundational data-analysis software* ($19,996)
 
 Colorado Water Institute, PI. *Linking the topology of forest disturbance to water quality to enhance forest and water resource management in Colorado* ($49,970)
 
 ### **2019**
 
-NSF DEB Macrosystems and NEON-Enabled Science, CO-PI *Collaborative Research:
+NSF DEB Macrosystems and NEON-Enabled Science, CO-PI. *Collaborative Research:
 MACRO-Sheds: Comparative Ecosystem Biogeochemistry at Continental Scales*
-(My lab's portion: $420,864)
+(Total: \$997,000 with Duke University, CSU Portion: $420,864)
 
 USDA National Need Fellowship program, CO-PI. 
 *Re-visioning graduate training for the era of agricultural big data*. Support
@@ -183,22 +205,37 @@ Knowledge to Build a Global Water Quality Monitoring Network ($2 million )
 
 NSF Frontiers in Earth Science, CO-PI.
 Using big data and machine learning to understand the phasing and processes
-that link upland sediment sources to coastal wetland change (My lab portion: $700,000)
+that link upland sediment sources to coastal wetland change (My lab portion: $780,000)
 
 NASA Carbon Monitoring System, CO-PI. 
 RDOM-CMPS: Riverine Dissolved Organic Matter Monitoring and Prediction using
 big data, machine learning, and next generation sensing. 
-(CSU Portion: 300,00 )
-
-NSF Macrosystems, CO-PI, The Inland Water Clarity Project:
-Integrating Lakes, Rivers and People at Continental Scales ($255,000)
-
-DOE, CO-PI, IGNITE: Integration of Genomes and Nutrients In Timbered Ecosystems (my lab portion, $310,000)
-
-DOE, CO-PI, Scaling the relationship between land-cover change and dissolved organic matter quantity, character and function in forested watersheds, (my lab portion $90,000)
+(CSU Portion: 350,000)
 
 
-# Selected First-Author Presentations (2016-2019)
+# Selected First-Author Presentations (2016-2020)
+
+## **2020**
+
+**MRV Ross** *Matched-up, the importance of open-access training data for global-scale remote sensing of water quality* Invited speaker to the Workshop
+on Knowledge Guided Machine Learning at University of Minnesota. 2020
+
+**MRV Ross** *From printing press to pdfs, the limits of papers in scholarly communication and open science* Invited speaker to Virtual Summit on Incorporating Data Science and Open Science Techniques in Aquatic Research. 2020
+
+SN Topp, TM Pavelsky, EH Stanley, X Yang, CG Griffin, **MRV Ross.** *Multi-Decadal Increases in U.S. Lake Water Clarity* Invited Talk at Ecological Society of America Virtual Conference. 2020. 
+
+
+## **2019**
+
+J Gardner, **MRV Ross**, SN Topp, X Yang, TM Pavelsky. *Trends and patterns in riverine suspended sediment concentrations across the continental USA revealed by satellite remote sensing.*
+
+X Yang, M Belanger, DK Byron, W Dolana, H Galit, S Januchowski-Hartley, M Jorrisen, T Langhorst, E Lawton, KA McQuillan, T Pavelsky, S Pawar, **MRV** Ross, A Whittemore. *Our fragmented rivers––mapping human-made river obstructions around the globe.*
+
+SN Topp, TM Pavelsky, **MRV Ross.**, EH Stanley, X Yang. *Lakes as integrators: Multi-decadal fluctuations in regional lake water clarity and seasonality across the U.S.* 
+
+T Langhorst, TM Pavelsky, SN Topp, **MRV Ross**, C Dai, MT Durand, RPM Frasson, I Howat. *Remotely sensed discharge and sediment flux of the Sagavanirktok River.*
+
+## **2018**
 
 **MRV Ross**, SN Topp, AP Appling, X Yang, J Gardner, T Pavelsky.
 *What can 34 years of imagery tell us about suspended sediment
@@ -209,7 +246,9 @@ American Geophysical Union, Washington DC, December 2018.
 CU-Boulder Ecology Symposium, 2018. 
 
 **MRV Ross**. *Novel approaches to understanding spatial and temporal variation in water quality*. Invited speaker to CU-Boulder
-Civil and Environmental Engineering Symposium. 
+Civil and Environmental Engineering Symposium. 2018
+
+## **2017**
 
 **MRV Ross**, F Nippgen, BL McGlynn, ES Bernhardt.*Yesterdays forest, tomorrows savannah? Legacies in the man-made mountains of Appalachia*. Fall Meeting of the American Geophysical Union, New Orleans, December 2017. *Invited
 
