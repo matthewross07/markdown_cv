@@ -1,0 +1,61 @@
+---
+title: ''
+author: "Matthew R.V. Ross"
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+  word_document: default
+  html_document:
+    df_print: paged
+fontfamily: palatino
+fontsize: 11pt
+geometry: margin=1in
+fontawesome: yes
+urlcolor: blue
+---
+
+# Professional Preparation
+
+*University of Colorado at Boulder*; CO, B.A. Ecology and Evolutionary Biology, Minor in French \hfill 2010
+
+*Duke University*; Durham NC, Ph.D. Ecology \hfill 2017
+
+*University of North Carolina at Chapel Hill*; NC,  Post-doc in aquatic remote sensing \hfill 2017-2018
+
+# Employment
+
+*Colorado State University Department of Ecosystem Science and Sustainability*
+
+ > Assistant professor of water quality \hfill 2018--present
+
+
+# Publications
+
+## 5 most relavent to this proposal 
+
+MRV Ross, F Nippgen, BA Hassett, BL McGlynn, ES Bernhardt. *Pyrite oxidation drives exceptionally high weathering rates and geologic $CO_2$ release in mountaintop-mined landscapes*. Global Biogeochemical Cycles. 2018. doi: [10.1029/2017GB005798](https://doi.org/10.1029/2017GB005798)
+
+AA Peri\c{c}ak CJ Thomas, DA Kroodsma, MF Wasson, MRV Ross, NE Clinton, DJ Campagna, Y Franklin, ES Bernhardt, JF Amos. *Mapping the yearly extent of surface coal mining in Central Appalachia using Landsat and Google Earth Engine*. PLOS ONE. 2018. doi: [10.1371/journal.pone.0197758](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197758)
+
+F Nippgen, MRV Ross, ES Bernhardt, BL McGlynn. *Creating a more perennial problem? Mountaintop removal coal mining enhances and sustains sailine baseflows of Appalachian watersheds*. Environmental science & technology. 2017. doi: [10.1021/acs.est.7b02288](https://pubs.acs.org/doi/abs/10.1021/acs.est.7b02288)
+
+MRV Ross, BL McGlynn, ES Bernhardt. *Deep impact: effects of mountaintop mining on surface topography, bedrock structure, and downstream waters*. 2016. Environmental science & technology. doi: [10.1021/acs.est.5b04532](https://pubs.acs.org/doi/abs/10.1021/acs.est.5b04532)
+
+MRV Ross, ES Bernhardt, MW Doyle, JB Heffernan. *Designer ecosystems: incorporating design approaches into applied ecology*. 2015. Annual Reviews of Environment and Resources. doi: [10.1146/annurev-environ-121012-100957](https://doi.org/10.1146/annurev-environ-121012-100957)
+
+## Additional publications
+
+Barger, N. N., Gardner, T. A., Sankaran, M., Belnap, J., Broadhurst, L., Brochier, V., 
+Isbell, F., Meyfroidt, P., Moreira, F., Nieminen, T. M., Okuro, T., Rodrgiues, R. R., Saxena, V., and Ross, M. *Chapter 3: Direct and indirect drivers of land degradation and restoration*. In IPBES (2018): The IPBES assessment report on land degradation and restoration. Montanarella, L., Scholes, R., and Brainich, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on 
+Biodiversity and Ecosystem Services, Bonn, Germany, pp. 137-218
+
+
+MC Arnold, LA Friedrich, TT Lindberg, MRV Ross, NM Halden, ES Bernhardt, VP Palace, RT Di Giullio. *Microchemical analysis of selenium in otoliths of two West Virginia fishes captured near mountaintop removal coal mining operations*. 2015. Environmental Toxicology and Chemistry. doi: [10.1002/etc.2885](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.2885)
+
+
+MR Ross, SC Castle, NN Barger. *Effects of fuels reductions on plant communities and soils in a Pi\~non Juniper woodland*. 2012. Journal of arid environments. doi: [10.1016/j.jaridenv.2011.11.019](https://doi.org/10.1016/j.jaridenv.2011.11.019) 
+
+# Synergistic activities 
+
+Project specific synergies will go here!

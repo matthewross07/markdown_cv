@@ -1,0 +1,71 @@
+---
+title: "Faculty Mentoring Committee"
+author: "Matthew Ross"
+date: `r format(Sys.time(), "%d %B, %Y")`
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+Drs. Kampf, Fassnacht, and Wohl,
+
+First, I would like to thank you all for agreeing to be on my faculty mentoring 
+committee. Even in my first six-months, I have greatly appreciated your wisdom
+and help and I look forward to learning more. For this first review, I have spoken
+with Stephanie, and I have simply attached my extended CV which includes papers
+in review and pending grants. This letter outlines some of my other goals and
+contributions to the department that are not well suited to a CV. 
+
+In my first year at Colorado State, I have focused heavily on submitting competitive,
+national grants with a regional or global focus with colleagues from across the country. These range in topics from
+global scale water quality monitoring using satellites, to national scale data 
+syntheses to look at watershed controls on element export across climate and 
+geologic gradients. To date, these efforts have all been with people outside of 
+Colorado State, which has largely been intentional, since I had a year of post-doctoral
+work to prepare for my job here and built collaborations towards that goal.
+Moving forward I expect to submit more grants with 
+local collaborators focused on local issues of water quality including: looking
+at the nested impacts of urbanization, fire, mining, and agriculture on water quality. I expect this nascent work will include a large list of local collaborators
+including folks at CSU (like you all, Tim Covino and Aditi Bhaskar), the
+US Forest Service (Chuck Rhoades), and the city of Fort Collins 
+(Jared Heath and Basil Hamden). My first effort in this direction was a grant with
+Ed Hall to study the current and future trends of algal blooms in Front Range reservoirs. This Grant has been recommended for funding by the Colorado Water Institute. 
+
+Beyond grant writing, I have also begun to contribute to our department's educational
+goals both through mentorship and teaching. In particular, I have started a focused 
+discussion on improving our Watershed major curriculum by building up our student's analytical skills by delivering homeworks in a similar way across our 400-level 
+courses (focusing on using R for analysis). In addition to this long-term goal, I
+have started teaching both Water Quality and Land Use (WR418) and Water Quality for 
+Wildland Managers (WR419). I have substantially changed both of these courses, with a
+focus on connecting a working knowledge of chemistry to understanding large-scale
+water quality problems (WR418). In the lab course (WR419), I have heavily emphasized 
+the importance of understanding both how water quality data is collected, generated,
+and distributed, with a deep understanding of how to analyze and understand that
+data, by using real-world datasets. In addition to these more formalized teaching
+efforts, I have also taken on 4 independent study students working on two distinct projects. The first group is working with the USGS to look at trends in Selenium
+concentration in the Gunnison river basin, while the second is looking at the 
+variation in river water quality as it maps onto measures of wealth, status, and race. 
+
+Finally, for my service components, I have become chair of the NREL education committee, with a focus on improving the outreach capacity of our group. As part of this work, I have successfully sponsored an NREL staff-scientist (Chris Dorich) to receive
+funding to deliver a summer course aimed at teaching people how to develop and 
+host interactive data visualizations (through Shiny R). I am also a member of the
+search committee in ESS looking to hire a biogeochemist. As a member of GDPE, I am
+also actively working with students in GDPE to build a lasting document that guides
+incoming students towards analytical resources (mostly R based). 
+
+Looking forward, I have several goals for the next year. First, successfully recruit graduate students (interviewing 3 this week) and secure funding for their work. 
+Second, develop and deliver a powerful R-based data analysis course to graduate students. Third, continue to improve my WR418 and 419 courses. Fourth, build a live-streaming 
+sensor network in the Poudre river in collaboration with the city of Fort Collins 
+and *in-situ*. This work is already under way and we have successfully chosen seven sites
+from Laporte towards Greeley where we will instrument the Poudre with 10-minute interval sensors recording turbidity, discharge, specific conductance, temperature, pH, and 
+dissolved oxygen. This sensor network will be used as a research base for my graduate
+students, but also as an educational tool in both my 418 and 419 courses as well as
+other WR courses. 
+
+For the next five years, my goals are to: 1) have an active research program exploring
+issues of watershed science, ecosystem ecology, and water quality at both the 
+national and global scale and at the local field scale. 2) Have successfully transitioned our WR courses to being more tightly connected in both content and
+analysis approach. 3) Have successfully graduated my first graduate students, and 4)
+helped build on the collaborative and helpful atmosphere within the watershed group
+at CSU. 

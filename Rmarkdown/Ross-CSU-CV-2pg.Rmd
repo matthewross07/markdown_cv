@@ -1,0 +1,115 @@
+---
+title: ''
+author: "Matthew R.V. Ross"
+email: matt.ross@colostate.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+geometry: margin=1in
+github: matthewross07
+jobtitle: Assistant Professor of Water Quality, Colorado State University
+linkcolor: blue
+orcid: http://orcid.org/0000-0001-9105-4255
+fontawesome: yes
+address: 1476 Campus Delivery, Fort Collins, CO 80523
+updated: yes
+urlcolor: blue
+web: matthewrvross.com
+---
+
+
+# Education
+
+*Duke University*, Ph.D. Ecology \hfill 2017
+
+*University of Colorado at Boulder*, B.A. Ecology and Evolutionary Biology with a Minor in French \hfill 2010
+
+# Employment
+
+*Colorado State University Department of Ecosystem Science and Sustainability*
+
+ > Assistant professor of water quality \hfill 2018--present
+
+*University of North Carolina at Chapel Hill*
+
+ > Post-doctoral researcher in the Global Hydrology Lab with Tamlin Pavelsky \hfill 2017--2018
+
+
+# Publications
+
+MRV Ross, F Nippgen, BA Hassett, BL McGlynn, ES Bernhardt. *Pyrite oxidation drives exceptionally high weathering rates and geologic $CO_2$ release in mountaintop-mined landscapes*. Global Biogeochemical Cycles. doi: [10.1029/2017GB005798](https://doi.org/10.1029/2017GB005798)
+
+AA Peri\c{c}ak CJ Thomas, DA Kroodsma, MF Wasson, MRV Ross, NE Clinton, DJ Campagna, Y Franklin, ES Bernhardt, JF Amos. *Mapping the yearly extent of surface coal mining in Central Appalachia using Landsat and Google Earth Engine*. PLOS ONE. doi: [10.1371/journal.pone.0197758](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197758)
+
+F Nippgen, MRV Ross, ES Bernhardt, BL McGlynn. *Creating a more perennial problem? Mountaintop removal coal mining enhances and sustains sailine baseflows of Appalachian watersheds*. Environmental science & technology. doi: [10.1021/acs.est.7b02288](https://pubs.acs.org/doi/abs/10.1021/acs.est.7b02288)
+
+MRV Ross, BL McGlynn, ES Bernhardt. *Deep impact: effects of mountaintop mining on surface topography, bedrock structure, and downstream waters*. Environmental science & technology. doi: [10.1021/acs.est.5b04532](https://pubs.acs.org/doi/abs/10.1021/acs.est.5b04532)
+
+MRV Ross, ES Bernhardt, MW Doyle, JB Heffernan. *Designer ecosystems: incorporating design approaches into applied ecology*. Annual Reviews of Environment and Resources. doi: [10.1146/annurev-environ-121012-100957](https://doi.org/10.1146/annurev-environ-121012-100957)
+
+MC Arnold, LA Friedrich, TT Lindberg, MRV Ross, NM Halden, ES Bernhardt, VP Palace, RT Di Giullio. *Microchemical analysis of selenium in otoliths of two West Virginia fishes captured near mountaintop removal coal mining operations*. Environmental Toxicology and Chemistry. doi: [10.1002/etc.2885](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.2885)
+
+MR Ross, SC Castle, NN Barger. *Effects of fuels reductions on plant communities and soils in a Pi\~non Juniper woodland*. Journal of arid environments. doi: [10.1016/j.jaridenv.2011.11.019](https://doi.org/10.1016/j.jaridenv.2011.11.019) 
+
+
+
+# Grants and Awards
+
+**2016**
+
+* Grand Prize AGU/NASA Data Visualization and Storytelling Competition
+
+* Fellow for Intergovernmental Panel on Biodiversity and Ecosystem Assessment
+
+* Finalist for Mozilla Fellowship for Open Science
+
+**2015** 
+
+* Third Place Duke Data Visualization Contest
+
+* Duke Data+ Mentor
+
+* Gordon Research Conference Rising Star
+
+**2013** 
+
+* NSF Graduate Research Fellowship
+
+**2012**
+
+* NSF IGERT for Wireless Intelligent Sensor Networks
+* Honorable Mention NSF Graduate Research Fellowship
+
+# Selected Presentations
+
+F Nippgen, MRV Ross, ES Bernhardt, BL McGlynn. *Deconstructing the deconstruction of Appalachia: Mountaintop mining effects on hydrology across temporal and spatial scales*. Fall Meeting of the American Geophysical Union, New Orleans, December 2017. 
+
+MRV Ross, F Nippgen, BL McGlynn, ES Bernhardt.*Yesterday’s forest, tomorrow’s savannah? Legacies in the man-made mountains of Appalachia*. Fall Meeting of the American Geophysical Union, New Orleans, December 2017. *Invited
+
+F Nippgen, MRV Ross, ES Bernhardt, BL McGlynn. *Short and long-term effects of a large-scale critical zone disturbance on hydrologic response*, UCOWR, Fort Collins, June 2017
+
+MRV Ross, F Nippgen, BL McGlynn, ES Bernhardt. *Disturb 1% of the land, generate 50% of the regional ion flux*. Society for Freshwater Science, Raleigh, June, 2017.
+
+MRV Ross, F Nippgen, BL McGlynn, ES Bernhardt. *Tracing disturbance impacts on water quantity and quality through a stream network*. European Geophysical Union, Vienna, April, 2017
+
+MRV Ross, F Nippgen, Hassett B., BL McGlynn, ES Bernhardt. *Melting mountains of Appalachia: exceptionally high weathering rates in mined watersheds*, American Geophysical Union Fall Meeting, 2016
+
+Nippgen F., MRV Ross, ES Bernhardt, McGlynn, B.L. *Mountaintop removal mining: from ephemeral to perennial streams*, American Geophysical Union Fall Meeting 2016
+
+
+
+# Posters
+
+MRV Ross, *Sensing rivers and streams*. Gordon Research Conference, Lewiston, ME, June 2017
+
+KL Jaeger, MRV Ross, *Process domains in synthetic landscapes: slope-area relationships in the mountaintop mining region of central Appalachia*. American Geophysical Union Fall Meeting. San Francisco, CA. (12/2014)
+
+
+
+

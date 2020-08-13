@@ -1,0 +1,259 @@
+---
+title: ''
+author: "Matthew R.V. Ross"
+email: matt.ross@colostate.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+  word_document: default
+  html_document:
+    df_print: paged
+fontfamily: palatino
+fontsize: 10pt
+geometry: margin=1in
+github: matthewross07
+jobtitle: Assistant Professor of Water Quality, Colorado State University
+linkcolor: blue
+orcid: http://orcid.org/0000-0001-9105-4255
+fontawesome: yes
+address: 1476 Campus Delivery, Fort Collins, CO 80523
+updated: yes
+urlcolor: blue
+web: matthewrvross.com
+---
+
+
+
+# Education
+
+*Duke University*, Ph.D. Ecology \hfill 2017
+
+*University of Colorado at Boulder*, B.A. Ecology and Evolutionary Biology with a Minor in French \hfill 2010
+
+# Employment
+
+*Colorado State University Department of Ecosystem Science and Sustainability*
+
+ > Assistant Professor of water quality \hfill 2018--present
+
+*University of North Carolina at Chapel Hill*
+
+ > Post-doctoral researcher in the Global Hydrology Lab with Tamlin Pavelsky \hfill 2017--2018
+
+
+# Peer-Reviewed Publications
+
+## **Publications in review**
+
+
+J Gardner, **MRV Ross**, S Topp, X Yang, T Pavelsky. *The color of rivers: Are US rivers “greening” or “browning”?*
+
+S Topp, T Pavelsky, E Stanley, X Yang, C Griffin, **MRV Ross**
+*Regional Increases in U.S. Lake Water Clarity Over 35 Years*
+
+M Simonin, JD Rocca, J Gerson, E Moore, **MRV Ross**, A Brooks, J Craine, L Czaplicki N Fierer ES Bernhardt. *Biodiversity loss across multiple kingdoms of life associated with surface coal mining activities in Central Appalachian rivers.*
+
+K Jaeger, **MRV Ross**. *Process domains in synthetic landscapes: 
+uncoupling of geomorphic process and form in
+the mountaintop mining region of West Virginia, USA*
+
+
+## **2020**
+
+S Topp, T Pavelsky, D Jensen, M Simard. **MRV Ross**. *Remote sensing of water quality: a 50-year review of methods and applications.* Water. 2020.  DOI: [10.3390/w12010169](https://doi.org/10.3390/w12010169)
+
+GH Allen, X Yang, J Gardner, J Holliman, CH David, **MRV Ross**.
+*Timing of Landsat Overpasses Effectively Captures Flow Conditions of Large Rivers* Remote Sensing. 2020. DOI: [10.3390/rs12091510](https://doi.org/10.3390/rs12091510)
+
+A Whittermore, **MRV Ross**, X Yang, W Dolan, T Langhorst, T Pavelsky, S Januchowski-Hartley.
+*The construction and validation of a citizen science derived Global River Obstruction Database (GROD).* Earth's Future. In Press
+
+JR Gerson, LC Naslund, H Hsu-Kim, CT Driscoll, **MRV Ross**, M Waters, ES Bernhardt. 
+*Mercury and Selenium Loading in Mountain-Top Mining Impacted Alkaline Streams and Riparian Food Webs.* Biogeochemistry. 2020 DOI: [10.1007/s10533-020-00690-7](https://doi.org/10.1007/s10533-020-00690-7)
+
+## **2019**
+
+AC Brooks, **MRV Ross**, F Nippgen, BL McGlynn, ES Bernhardt. *Mountaintop removal coal mining watersheds export excessive nitrate.*   Journal of Geophysical Research: 
+Biogeosciences. 2019. DOI: [10.1029/2019JG005174](https://doi.org/10.1029/2019JG005174)
+
+**MRV Ross**, S Topp, AP Appling, C Kuhn, D Butman, M Simard, T Pavelsky. *AquaSat: a dataset to enable remote sensing of water quality for inland waters*. Water Resources Research. 
+2019. DOI: [10.1029/2019WR024883](https://doi.org/10.1029/2019WR024883)
+
+## **2018**
+
+Barger, N. N., Gardner, T. A., Sankaran, M., Belnap, J., Broadhurst, L., Brochier, V., 
+Isbell, F., Meyfroidt, P., Moreira, F., Nieminen, T. M., Okuro, T., Rodrgiues, R. R., Saxena, V., and **Ross, M**. *Chapter 3: Direct and indirect drivers of land degradation and restoration*. In IPBES (2018): The IPBES assessment report on land degradation and restoration. Montanarella, L., Scholes, R., and Brainich, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on 
+Biodiversity and Ecosystem Services, Bonn, Germany, pp. 137-218
+
+**MRV Ross**, F Nippgen, BA Hassett, BL McGlynn, ES Bernhardt. *Pyrite oxidation drives exceptionally high weathering rates and geologic $CO_2$ release in mountaintop-mined landscapes*. Global Biogeochemical Cycles. 2018. doi: [10.1029/2017GB005798](https://doi.org/10.1029/2017GB005798)
+
+AA Peri\c{c}ak CJ Thomas, DA Kroodsma, MF Wasson, **MRV Ross**, NE Clinton, DJ Campagna, Y Franklin, ES Bernhardt, JF Amos. *Mapping the yearly extent of surface coal mining in Central Appalachia using Landsat and Google Earth Engine*. PLOS ONE. 2018. doi: [10.1371/journal.pone.0197758](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197758)
+
+## **2017**
+
+F Nippgen, **MRV Ross**, ES Bernhardt, BL McGlynn. *Creating a more perennial problem? Mountaintop removal coal mining enhances and sustains sailine baseflows of Appalachian watersheds*. Environmental science & technology. 2017. doi: [10.1021/acs.est.7b02288](https://pubs.acs.org/doi/abs/10.1021/acs.est.7b02288)
+
+## **2016**
+
+**MRV Ross**, BL McGlynn, ES Bernhardt. *Deep impact: effects of mountaintop mining on surface topography, bedrock structure, and downstream waters*. 2016. Environmental science & technology. doi: [10.1021/acs.est.5b04532](https://pubs.acs.org/doi/abs/10.1021/acs.est.5b04532) 
+*Covered in [NYTimes](https://www.nytimes.com/2016/02/16/opinion/how-the-coal-industry-flattened-the-mountains-of-appalachia.html), [The Atlantic](https://www.theatlantic.com/technology/archive/2016/03/the-violent-remaking-of-appalachia/474603/), and [Think Progress](https://thinkprogress.org/scientists-have-now-quantified-mountaintop-removal-minings-destruction-of-appalachia-101971e1465c/)
+
+## **2015**
+
+**MRV Ross**, ES Bernhardt, MW Doyle, JB Heffernan. *Designer ecosystems: incorporating design approaches into applied ecology*. 2015. Annual Reviews of Environment and Resources. doi: [10.1146/annurev-environ-121012-100957](https://doi.org/10.1146/annurev-environ-121012-100957)
+
+MC Arnold, LA Friedrich, TT Lindberg, **MRV Ross**, NM Halden, ES Bernhardt, VP Palace, RT Di Giullio. *Microchemical analysis of selenium in otoliths of two West Virginia fishes captured near mountaintop removal coal mining operations*. 2015. Environmental Toxicology and Chemistry. doi: [10.1002/etc.2885](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.2885)
+
+## **2012**
+
+**MR Ross**, SC Castle, NN Barger. *Effects of fuels reductions on plant communities and soils in a Pi\~non Juniper woodland*. 2012. Journal of arid environments. doi: [10.1016/j.jaridenv.2011.11.019](https://doi.org/10.1016/j.jaridenv.2011.11.019) 
+
+
+
+
+# Grants and Awards
+
+## **Pending**
+
+
+NSF Hydological Sciences, PI, Collaborative Research: Clear, Stained, Muddy, and Green: Water clarity patterns and processes across inland water networks. (CSU Portion: $325,000)
+
+
+## **Awarded**
+
+
+### **2020**
+
+NSF Hydrological Sciences RAPID Award, CSU PI *Collaborative Research: Increased access to infrastructure for distance education in hydrologic science* $20,552
+
+Colorado State University Provost Office, PI *University-wide training in foundational data-analysis software* $19,996
+
+Colorado Water Institute, PI. *Linking the topology of forest disturbance to water quality to enhance forest and water resource management in Colorado* ($49,970)
+
+### **2019**
+
+NSF DEB Macrosystems and NEON-Enabled Science, CO-PI *Collaborative Research:
+MACRO-Sheds: Comparative Ecosystem Biogeochemistry at Continental Scales*
+(My lab's portion: $420,864)
+
+USDA National Need Fellowship program, CO-PI. 
+*Re-visioning graduate training for the era of agricultural big data*. Support
+for 4 Master's and 1 PhD student to get ag or watershed data science degrees ($243,500)
+
+NSF EAR Hydrological Sciences Post-DOC awarded directly to Anna Bergstrom. 
+*Controls on weathering, solute fluxes, and geologic carbon cycling in 
+glacierized catchments* Faculty adviser for post-doc ($174,000).
+
+Wyoming Water Research Program. Identifying, predicting and managing the occurrence of harmful cyanobacterial blooms in Wyoming reservoirs (CSU portion $25,200)
+
+
+### **2018**
+
+Partnership with the City of Fort Collins and In-Situ Sensor Manufacturing for 
+a real-time water quality monitoring and decision network in the Poudre River
+(Estimated in-kind contribution from the City and In-Situ: $85,000)
+
+Colorado Water Institute, PI. *Tools for improving knowledge of reservoir water quality in the Front Range of Colorado* ($49,991) 
+
+
+### **2016**
+
+Grand Prize AGU/NASA Data Visualization and Storytelling Competition
+
+Fellow for Intergovernmental Panel on Biodiversity and Ecosystem Assessment
+
+Finalist for Mozilla Fellowship for Open Science
+
+### **2015** 
+
+Gordon Research Conference Rising Star Award ($2500)
+
+### **2013** 
+
+NSF Graduate Research Fellowship
+NSF IGERT For Wireless Intelligent sensors
+
+
+## **Recent unfunded proposals**
+
+Google Artificial Intelligence Impact Challenge, Lead PI.
+Using AI, Satellites, and Geoscience
+Knowledge to Build a Global Water Quality Monitoring Network ($2 million )
+
+NSF Frontiers in Earth Science, CO-PI.
+Using big data and machine learning to understand the phasing and processes
+that link upland sediment sources to coastal wetland change (My lab portion: $700,000)
+
+NASA Carbon Monitoring System, CO-PI. 
+RDOM-CMPS: Riverine Dissolved Organic Matter Monitoring and Prediction using
+big data, machine learning, and next generation sensing. 
+(CSU Portion: 300,00 )
+
+NSF Macrosystems, CO-PI, The Inland Water Clarity Project:
+Integrating Lakes, Rivers and People at Continental Scales ($255,000)
+
+DOE, CO-PI, IGNITE: Integration of Genomes and Nutrients In Timbered Ecosystems (my lab portion, $310,000)
+
+DOE, CO-PI, Scaling the relationship between land-cover change and dissolved organic matter quantity, character and function in forested watersheds, (my lab portion $90,000)
+
+
+# Selected First-Author Presentations (2016-2019)
+
+**MRV Ross**, SN Topp, AP Appling, X Yang, J Gardner, T Pavelsky.
+*What can 34 years of imagery tell us about suspended sediment
+dynamics and controls in large rivers?* Fall Meeting of the 
+American Geophysical Union, Washington DC, December 2018.
+
+**MRV Ross**. *The ecology of a designed ecosystem: legacies in the man-made mountains of Appalachia.* Invited speaker to 
+CU-Boulder Ecology Symposium, 2018. 
+
+**MRV Ross**. *Novel approaches to understanding spatial and temporal variation in water quality*. Invited speaker to CU-Boulder
+Civil and Environmental Engineering Symposium. 
+
+**MRV Ross**, F Nippgen, BL McGlynn, ES Bernhardt.*Yesterdays forest, tomorrows savannah? Legacies in the man-made mountains of Appalachia*. Fall Meeting of the American Geophysical Union, New Orleans, December 2017. *Invited
+
+**MRV Ross**. *Designer ecosystems on federal lands*. 
+Invited talk at USGS Grand Canyon Monitoring and 
+Research Center, Flagstaff AZ, 2017. 
+
+**MRV Ross**, F Nippgen, BL McGlynn, ES Bernhardt. *Disturb 1% of the land, generate 50% of the regional ion flux*. Society for Freshwater Science, Raleigh, June, 2017.
+
+**MRV Ross**, F Nippgen, BL McGlynn, ES Bernhardt. *Tracing disturbance impacts on water quantity and quality through a stream network*. European Geophysical Union, Vienna, April, 2017
+
+# Other Products
+
+## **Educational resources**
+
+Open access book for learning R, mostly built by Alex Fout as 
+part of our CSU-wide initiative. [Book](https://csu-r.github.io/Module1/)
+
+Open access website, videos, and tutorials for learning environmental data science
+[under construction](https://matthewrvross.com/WR674/environmental-data-science.html)
+
+Open access book on water quality [also under construction](https://matthewrvross.com/wr418/land-use-and-water-quality-wr418.html)
+
+Website to explore the topographic impacts of [Mountaintop Mining](http://mtm-explore.web.duke.edu/)
+
+Application to explore chemistry and weathering changes in 
+[mountaintop mined watersheds](http://mtm-weathering.web.duke.edu/)
+
+Introduction to environmental science course material as an interactive series
+of [web applications](http://env102.web.duke.edu/)
+
+Application to look at water quality change in the [Blue River Watershed](http://bluewatershed.web.duke.edu/)
+
+Site to explore Hubbard Brook ecosystem biogeochemistry 
+[data](http://www.hbwater.org/)
+
+## **Additional publications**
+
+Publication in the conversation on [hard rock mining](https://theconversation.com/mining-powers-modern-life-but-can-leave-scarred-lands-and-polluted-waters-behind-119453), over 10,000 readers. 
+
+Grimbert, Pierre., *The Secret of Ji: The Shadow of the Ancients*. Translated by Matt Ross. Amazon Crossing, Seattle, 2014
+
+Grimbert, Pierre., *The Secret of Ji: The Orphan's Promise*. Translated by Matt Ross and Eric Lamb. Amazon Crossing, Seattle, 2013
+
+Grimbert, Pierre., *The Secret of Ji: The Six Heirs*. Translated by Matt Ross and Eric Lamb. Amazon Crossing, Seattle, 2012. 
+
+

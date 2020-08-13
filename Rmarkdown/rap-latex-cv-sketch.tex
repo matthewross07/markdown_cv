@@ -187,8 +187,7 @@ $endfor$
 \usepackage{titlesec}
 \titlespacing\section{0pt}{10pt plus 3pt minus 2pt}{4pt plus 2pt minus 2pt}
 \titlespacing\subsection{0pt}{10pt plus 3pt minus 2pt}{4pt plus 2pt minus 2pt}
-\titleformat{\subsection}
-  {\normalfont\fontsize{11}{12}\bfseries}{\thesection}{1em}{}
+
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
 $if(fontawesome)$\usepackage{fontawesome}$endif$
 
@@ -201,7 +200,7 @@ $if(fontawesome)$\usepackage{fontawesome}$endif$
 \chead{}
 \rhead{}
 \lfoot{
-\cfoot{\scriptsize  $author-meta$ - $title$ - $orcid$ }}
+\cfoot{\scriptsize  $author-meta$}}
 \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
@@ -230,11 +229,11 @@ $endif$
 \begin{document}
 
 
-\centerline{\huge \bf $author$}
+\centerline{\large \bf $author$}
 
 \vspace{2 mm}
 
-\hrule
+
 
 \vspace{2 mm}
 
@@ -244,7 +243,7 @@ $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
 
 \vspace{2 mm}
 
-\hrule
+
 
 
 $body$

@@ -1,0 +1,137 @@
+---
+title: ''
+author: "Matthew R.V. Ross"
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv-sketch.tex
+  word_document: default
+  html_document:
+    df_print: paged
+fontfamily: palatino
+fontsize: 10pt
+geometry: margin=1in
+fontawesome: yes
+urlcolor: blue
+header-includes:
+  \usepackage{booktabs}
+  \usepackage{longtable}
+  \usepackage{array}
+  \usepackage{multirow} 
+  \usepackage{wrapfig}
+  \usepackage{float}
+  \usepackage{colortbl}
+  \usepackage{pdflscape}
+  \usepackage{tabu}
+  \usepackage{threeparttable}
+  \usepackage{threeparttablex}
+  \usepackage[normalem]{ulem}
+  \usepackage{makecell}
+  \usepackage{xcolor}
+---
+
+# Professional Preparation
+
+```{r, include=F,echo=F}
+library(knitr)
+library(tidyverse)
+library(kableExtra)
+library(knitr)
+```
+
+
+```{r, echo=F,warning=F}
+inst <- tibble(institution = c('University of Colorado',
+                               'Duke University',
+                               'University of North Carolina'),
+               place=c('Boulder CO','Durham NC','Chapel Hill NC'),
+               degree=c('B.A. Ecology and Evolultionary Biology, Minor in French','PhD Ecology',
+                        'Post-doc in remote sensing'),
+               year=c('2010','2017','2017-2018'))
+
+options(knitr.table.format = 'latex')
+names(inst) <- NULL
+kable(inst,booktabs=T,longtable=T) %>%
+  kable_styling(full_width=T,position='right') %>%
+  column_spec(3,width='6cm')%>%
+  column_spec(1,width='5cm') %>%
+  column_spec(4,width='1.5cm')
+
+  
+
+  
+```
+
+*University of Colorado* \quad Boulder CO \quad   B.A. Ecology and Evol. Biology Minor in French \hfill 2010
+
+*Duke University*    \quad \quad  \quad   Durham NC \quad \quad Ph.D. Ecology \hfill 2017
+
+*University of North Carolina at Chapel Hill*; NC,  Post-doc in aquatic remote sensing \hfill 2017-2018
+
+# Employment
+
+*Colorado State University Department of Ecosystem Science and Sustainability*
+
+ > Assistant professor of water quality \hfill 2018--present
+
+
+# Publications
+
+## 5 most relevant to this proposal 
+
+AA Peri\c{c}ak CJ Thomas, DA Kroodsma, MF Wasson, MRV Ross, NE Clinton, DJ Campagna, Y Franklin, ES Bernhardt, JF Amos. *Mapping the yearly extent of surface coal mining in Central Appalachia using Landsat and Google Earth Engine*. PLOS ONE. 2018. 10.1371/journal.pone.0197758
+
+MRV Ross, BL McGlynn, ES Bernhardt. *Deep impact: effects of mountaintop mining on surface topography, bedrock structure, and downstream waters*. 2016. Environmental science & technology. 10.1021/acs.est.5b04532
+
+MRV Ross, F Nippgen, BA Hassett, BL McGlynn, ES Bernhardt. *Pyrite oxidation drives exceptionally high weathering rates and geologic $CO_2$ release in mountaintop-mined landscapes*. Global Biogeochemical Cycles. 2018. 10.1029/2017GB005798
+
+F Nippgen, MRV Ross, ES Bernhardt, BL McGlynn. *Creating a more perennial problem? Mountaintop removal coal mining enhances and sustains saline baseflows of Appalachian watersheds*. Environmental science & technology. 2017. 10.1021/acs.est.7b02288
+
+
+MRV Ross, ES Bernhardt, MW Doyle, JB Heffernan. *Designer ecosystems: incorporating design approaches into applied ecology*. 2015. Annual Reviews of Environment and Resources. 10.1146/annurev-environ-121012-100957
+
+## Additional publications
+
+Barger, N. N., Gardner, T. A., Sankaran, M., Belnap, J., Broadhurst, L., Brochier, V., 
+Isbell, F., Meyfroidt, P., Moreira, F., Nieminen, T. M., Okuro, T., Rodrgiues, R. R., Saxena, V., and Ross, M. *Chapter 3: Direct and indirect drivers of land degradation and restoration*. In IPBES (2018): The IPBES assessment report on land degradation and restoration. Montanarella, L., Scholes, R., and Brainich, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany, pp. 137-218
+
+
+MC Arnold, LA Friedrich, TT Lindberg, MRV Ross, NM Halden, ES Bernhardt, VP Palace, RT Di Giullio. *Microchemical analysis of selenium in otoliths of two West Virginia fishes captured near mountaintop removal coal mining operations*. 2015. Environmental Toxicology and Chemistry. 10.1002/etc.2885
+
+
+MR Ross, SC Castle, NN Barger. *Effects of fuels reductions on plant communities and soils in a Pi\~non Juniper woodland*. 2012. Journal of arid environments. 10.1016/j.jaridenv.2011.11.019
+
+# Synergistic activities 
+
+**Maintenance and construction of AquaSat** - AquaSat is a dataset that uses Google
+Earth Engine and R to join *in-situ* measurements of Water Quality with Landsat
+imagery. These matchups can be used to build continental scale predictions of
+water quality. I am the lead maintainer and developer for this 
+semi-annually updated dataset which is pending publication. 
+
+**Lead for watershed major curriculum changes at CSU** -  I am leading changes 
+in our curriculum at Colorado State to make sure our Watershed major students
+have modern analytical skills. This involves a 
+committment to teaching both faculty and students a cohesive approach to analyzing
+watershed data and building tutorials to that end. 
+
+**NREL Education Committee Chair** - As part of my position at CSU, I am the chair
+of the Natural Resource Ecology Lab's educational activities. This includes activities
+building, supporting, and maintaining summer education institutes to 
+develop modern data analytics skills and share 
+these analyses with a broad audience using the interactive web building tools
+from Shiny R. 
+
+**Collaborator with the USGS Integrated Information Dissemination Division** - 
+For ongoing work and pending proposal's I am a close collaborator with the USGS
+IIDD, part of the Water Mission Area at USGS. IIDD works to analyze, visualize,
+and disseminate relavent water data to the world, and I have been involved with 
+their efforts to streamline analysis pipelines as well as distribution of these
+data. 
+
+**Coordinator and lead of Open Eco Data Lab** - I am working with graduate
+students in the Graduate Degree Program in Ecology at CSU to build a permanent 
+and stable portal for students to learn how to use R. This portal will house both
+tutorials built by other researchers and ones that I, my lab, or other students
+create. 
+

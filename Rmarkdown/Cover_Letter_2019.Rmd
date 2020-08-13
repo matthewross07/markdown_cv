@@ -1,0 +1,148 @@
+---
+title: "Faculty Mentoring Committee"
+author: "Matthew Ross"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+Drs. Kampf, Fassnacht, and Wohl,
+
+Thank you again for being on my mentoring committee. After my first full year
+as a faculty member (I started Aug, 2018), I have learned a lot about the incredibly
+diverse pressures of this job and it has been a period of immense growth in my
+capacities as a researcher and teacher. I've attached my updated CV, in addition
+to this letter, but I will briefly lay out my successes and failures for this year
+and discuss how I will continue to build my research and teaching programs. 
+
+## Research
+
+My research program currently falls into three distinct goals: First, I am 
+using large public datasets, remote sensing, and machine learning 
+to interrogate continental scale
+changes in water quality in rivers and lakes. Second, I am building an active 
+research program in the Cache La Poudre river, working with the city of Fort Collins to better understand both short- and long-term changes in water quality. This research is based on using live-streaming sensors to better understand how
+the myriad land-use changes in the Poudre watershed (fire, agriculture, 
+urbanization) interact to control the chemistry and biology of the river. Finally,
+I am working on a recently funded NSF project to integrate all watershed-ecosystem
+study datasets across the various networks that have funded long-term watershed 
+research (Forest Service, National Ecological Observation Network, Critical Zone 
+Observatories, Long-Term Ecological Research stations, Department of Energy research watersheds). The core research goal for bringing these data is to bring
+the historically parochial watershed-ecosystem approach to the continental scale,
+so that we can better understand how large-scale environmental change (like climate
+change or changing acid deposition) alter ecosystem and hydrological properties of
+watersheds. 
+
+### 2019 Summary
+
+#### Funding
+
+In 2019, I dedicated the majority of my research time to writing proposals. I 
+submitted 12 proposals as a CSU lead PI or CO-PI to a range of local 
+and federal agencies. Three of these proposals were funded, with the most 
+important being a $1 million NSF Macrosystems grant to study continental scale
+changes in watershed ecosystems ($420,000 to my lab). I also received (with Ed 
+Hall) a Colorado Water Institute grant to study algae blooms in Colorado 
+reservoirs (~$50,000), which is the project my first master's student is now 
+working on. Finally, I am a co-pi on a USDA grant to fund 4 master's students and 1
+PhD student to better integrate data science techniques into how agricultural 
+and watershed graduate students are trained. 
+
+I also have partnered with the city of Fort Collins and the sensor manufacturer
+In-Situ to install 8 live-streaming water quality Sondes in the Poudre River. 
+Many of these sensors were either donated for free or purchased by the city, allowing for me to get a large research project started with little contribution 
+from my startup ($85,000 in in-kind contributions). 
+
+#### Publications
+
+In terms of publishing, this year was admittedly a bit slow, due to my focus
+on grants. However, I had one major paper accepted in Water Resources Research.
+In this paper, we built the largest remote sensing training dataset ever. We are
+actively using this data to make predictions of water quality at unprecedented 
+scales (over 20,000 lakes and 10,000s of kilometers of rivers). I also am second
+author on a paper by Alex Brooks from our time at Duke. Alex shows large nitrate
+increases downstream of mountaintop mining increases, decades after mining has 
+ceases. 
+
+### Moving forward
+
+Over the next 4 years I plan on adjusting my approach a little. These adjustments
+include:
+
+- Focusing on fewer, but higher quality proposals more central to my research goals (closer to 5-8 per year). 
+
+- Focusing on publications, I anticipate that over the next few years, including 
+papers for which I am co-author or adviser I will publish closer to 5-10 papers
+per year. I currently have 9 fully drafted papers that will be submitted 
+over the next year. 
+
+- Continuing to grow my collaborative research program by partnering with more
+cities (including Loveland and Denver) and companies (like In-Situ and Hach). 
+This work allows me to do excellent research while also connecting to the 
+community. 
+
+## Teaching
+
+In the ideal form, my classes will include a deep integration of data analysis,
+content mastery, and creative demonstration of these skills. This approach would
+be tightly integrated with my mentoring approach, where students that I work with
+develop research- and work-relevant skillsets and then share those skills with others.
+I am currently teaching 9 credits (this academic year) and will teach 6 next year.
+I like this teaching schedule. 
+
+
+### 2019 Summary 
+
+In my first semester teaching Water Quality (WR 418) and Water Quality Lab 
+(WR 419), I saw glimpses 
+of this ideal integration of skills and content,
+but mostly I struggled to simultaneously generate both analytical and content
+knowledge. As a result, I changed the way I am teaching Data Issues in Hydrology
+(WR 674). In this class, I have completely flipped the class. Students watch
+videos of lecture before class, read relevant readings, and in class we focus 
+entirely on homeworks. It has been a revelation and a much better class where 
+I can much more obviously see progress in my students. Admittedly, it's a graduate
+class, so they are more motivated, but I plan on using this flipped approach more
+in my undergraduate courses. 
+
+While my undergraduate courses need work, I had more success mentoring the 
+undergrads who contacted me for research, mentoring 5 last year with 3 continuing
+to do theses with me. At the same time, I have started mentoring my graduate students
+(2) who have just joined the lab. Since they just started, there is not much to 
+report yet on the grad mentoring front, though I am also on 7 grad committees. 
+
+### Moving forward
+
+To improve my teaching and mentoring practice I plan on working on a few critical 
+issues over the next 4 years: 
+
+
+- I will work to flip my undergraduate courses, which
+will have the simultaneous benefit of making them ready for online versions.
+
+- Related to the above, I also plan on more deeply integrating coding in R not
+only in my classes, but in our watershed curriculum. I am actively working on
+grants and inter-departmental support to start an intro-R course taught by stats
+and offered by the university.
+
+- I plan on building a tiered mentoring approach, where my graduate students 
+closely advise undergraduate honors theses, with an eye towards undergraduate 
+publishing. 
+
+- Finally, I plan on developing a generic mentoring plan for my mentees and 
+specific plans for each student. 
+
+
+## Service
+
+- Chair of the NREL education committee
+
+- Member of the Warner College IT committee
+
+- Member of R-User Group 
+
+- Member of 7 graduate committees 
+
+- Reviewed 5 papers this year
